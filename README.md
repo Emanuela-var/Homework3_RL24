@@ -1,4 +1,4 @@
-# Homework2_rl2024
+# Homework3_rl2024
 Homework 3 for Robotics Lab 2024/2025
 
 First build all the packages by using:
